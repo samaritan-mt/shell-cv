@@ -4,7 +4,8 @@
 ***
 ## Prerequisites 
 
-Any system capable of running sh files can run the CV using its terminal
+Any system capable of running sh files can run the CV using its terminal.
+A precompiled version is also available for Windows.
 
 ## Motivations 
 
