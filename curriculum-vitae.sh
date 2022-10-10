@@ -72,7 +72,7 @@ cat << "EOF"
 |___\__,_|\_,_\__\__,_|\__|_\___/_||_|
 EOF
         echo -e "${line_delimiter}" 
-        echo "I have a Baccalaureate S option Physics. I obtained my baccalaureate degree with honors obtaining a mark of 18,46/20"
+        echo "I have a scientific baccalaureate option Physics and Chemistry. I received this degree with honors obtaining a mark of 18,46/20 in the national exam. (Casablanca, Morocco)"
         echo "I then enrolled Insa Rennes for a 5 year engineering degree beginning with scientific preparatory classes during 2 years and then the engineering classes for 3 years. I am currently a 4th year student in the Computer Science department of my school specialized in CyberSecurity."
         echo -e "${line_delimiter}\n\n"
         ;;
@@ -107,8 +107,8 @@ EOF
         echo -e "From September 2022 to June 2023 ---> I'm part of a team in a project to develop an extension for an IDE to handle a research method called DMOS.\nThe method is used for the automatic recognition of structured documents offline. The method is based on EPF (Enhanced Position Formalism) to specify the graphics and syntax of the analyzed document.\nThe goal is to create an extension allowing the users of the language to code with a lot more flexibility.\nThe extension aims to provide an entire IDE for the language, with syntax highlighting, code completion, code refactoring, debugging, etc.\nTools, Languages and Frameworks used: TypeScript, NodeJS, Yeoman, Gitlab, CI/CD, Jira, VSCodeAPI"
         echo -e "${line_delimiter}"
         echo -e "From September 2022 to January 2023 ---> I'm part of a team in an Object-Oriented Programming Project to code a Sudoku Game using a REST API for the back-end and an Angular front-end.\nLanguages, Tools and Frameworks used: Angular, Java, Spring, Maven, Gitlab, CI/CD"
-        echo -e "Side Projects:"
         echo -e "${line_delimiter}"
+        echo -e "Side Projects:"
         echo -e "In collaboration with my friend @relativisticpoint, I worked on the linux compatibility of a spam bot very hard to detect if used correctly.\nThe script contains a WebScrapper for a website of jokes but could be used with any type of file containing string if the parsing method was adapted to the syntax.\nThe bot used PyautoGUI to simulate mouse and keyboard inputs and was able to send messages to any person on any social media platforms.\nSo one could assume if the sleep time (i.e. time out between each send requests) of the spam is humanly acceptable, no platform could detect it.\nTools, Languages and Frameworks used: Python, PyautoGUI, BeautifulSoup, Github"
         echo -e "${line_delimiter} \n"
         ;;
