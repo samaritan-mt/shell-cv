@@ -5,7 +5,7 @@
 ## Prerequisites 
 
 Any system capable of running sh files can run the CV using its terminal.
-A precompiled version is also available for Windows.
+Windows users can run it using Linux subsystem (or any tool providing bash command-line : Cygwin, Git Bash...)
 
 ## Motivations 
 
